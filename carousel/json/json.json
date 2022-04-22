@@ -1,0 +1,15 @@
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Meteo La Statale",
+    "description": "Sito web ufficiale del Meteo La Statale",
+    "author": {
+        "@type": "Person",
+        "name": "Christian Marcolini"
+    },
+    "publisher": {
+        "@type": "CollegeOrUniversity",
+        "name": "UNIMI"
+    },
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/deed.en_US"
+}
